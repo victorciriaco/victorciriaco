@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Victor Hugo 👋
 
 - 🔭 Atualmente trabalho na área de Business Intelligence
-- 🌱 Estou arpendendo SQL
-- 📫 O meu contato é meu e-mail victorhugox188@gmail.com ou meu linkedin linkedin.com/in/victor-hugo-ciriaco-728490239
+- 🌱 Estou aprendendo SQL
 - ⚡ Fun fact: sou estudante de relações internacionais, mas estou me aventurando no mundo da programação
 
 <div>
